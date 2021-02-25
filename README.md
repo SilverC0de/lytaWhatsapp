@@ -25,5 +25,4 @@ Let's get started.
 
 &nbsp;
 ## License
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7c04f4a9-ba42-481c-8f65-d237016adbc3/deploy-status)](https://app.netlify.com/sites/snowbot/deploys) 
 [GNU](https://choosealicense.com/licenses/gpl-3.0/)
