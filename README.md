@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7c04f4a9-ba42-481c-8f65-d237016adbc3/deploy-status)](https://app.netlify.com/sites/snowbot/deploys)
+
 # snowbot
 Snow is my personal assistant, so I am feeling lazy nowadays, I literally asked my sister to help me manage my account, send money, pay bills.
 
