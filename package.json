@@ -1,0 +1,31 @@
+{
+  "name": "snowbot",
+  "version": "0.0.1",
+  "description": "Snowbot is a personal assitant AI for performing day to day activities",
+  "main": "snow.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilverC0de/snowbot.git"
+  },
+  "keywords": [
+    "bot",
+    "ai",
+    "fintech"
+  ],
+  "author": "Balogun Silver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilverC0de/snowbot/issues"
+  },
+  "homepage": "https://github.com/SilverC0de/snowbot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.4.1",
+    "twilio": "^3.57.0"
+  }
+}
