@@ -1,4 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7c04f4a9-ba42-481c-8f65-d237016adbc3/deploy-status)](https://app.netlify.com/sites/snowbot/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7c04f4a9-ba42-481c-8f65-d237016adbc3/deploy-status)](https://app.netlify.com/sites/snowbot/deploys)<space><space>
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<space><space>
+
 
 # snowbot
 Snow is my personal assistant, so I am feeling lazy nowadays, I literally asked my sister to help me manage my account, send money, pay bills.
@@ -23,4 +25,5 @@ Let's get started.
 
 &nbsp;
 ## License
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7c04f4a9-ba42-481c-8f65-d237016adbc3/deploy-status)](https://app.netlify.com/sites/snowbot/deploys) 
 [GNU](https://choosealicense.com/licenses/gpl-3.0/)
