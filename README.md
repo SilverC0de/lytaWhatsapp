@@ -18,3 +18,6 @@ So FaunaDB is a serverless DB as well, I guess I'm falling in love with serverle
 ```
 Let's get started.
 ```
+
+## License
+[GNU](https://choosealicense.com/licenses/gpl-3.0/)
