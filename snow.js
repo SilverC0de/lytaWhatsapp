@@ -2,8 +2,6 @@ const express = require('express')
 const helmet = require('helmet')
 const api = express()
 
-const config = require('./config')
-
 
 api.use(helmet.contentSecurityPolicy())
 api.use(helmet.expectCt())
@@ -15,17 +13,9 @@ api.use(helmet.frameguard())
 
 
 
-sql = mysql.createConnection({
-  host: config.db.host,
-  user: config.db.user,
-  password: config.db.pass,
-  database: config.db.name
-})
 
-
-
-//require major routes
-require('./routes')(api)
+// //require major routes
+// require('./routes')(api)
 
 
 api.get('/', (request, response) =>{
@@ -40,6 +30,6 @@ api.all('*', (request, response) => {
 });
 
 
-api.listen(config.port, ()=> {
-  console.log(`Snowbot is listening on port ${config.port}`)
+api.listen(2000, ()=> {
+  console.log(`Snowbot is listening on port ${2000}`)
 })
