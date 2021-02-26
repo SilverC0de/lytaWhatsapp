@@ -19,6 +19,8 @@ Snow should be online every time right? We need to host it, Netlify powers serve
 #### FaunaDB
 So FaunaDB is a serverless DB as well, I guess I'm falling in love with serverless bitch*s
 
+#Twilio
+WhatsApp messaging service is needed and we need to use twilio for that
 ```
 Let's get started.
 ```
