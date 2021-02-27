@@ -27,7 +27,7 @@ WhatsApp messaging service is needed and we need to use termii for that
 Let's get started.
 ```
 
-Before I procees, Just know that I really sufferred in the hands of Facebook just to get my bot approaved.
+Before I proceed, Just know that I really sufferred in the hands of Facebook just to get my bot approaved.
 
 &nbsp;
 ## License
