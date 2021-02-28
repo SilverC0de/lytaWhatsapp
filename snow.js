@@ -14,19 +14,16 @@ api.use(helmet.frameguard())
 
 
 
-// //require major routes
-// require('./routes')(api)
+//require major routes
+require('./src/routes')(api)
 
 
 api.get('/', (request, response) =>{
-    response.send('Snowbot is live!')
+    response.status(206).send('Snowbot is live!')
 })
 
 api.all('*', (request, response) => {
-    response.status(403).json({
-        'status' : false,
-        'message' : 'Snowbot is not available'
-    })
+    response.status(204).send('Snowbot is not available')
 });
 
 
