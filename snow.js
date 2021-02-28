@@ -27,6 +27,6 @@ api.all('*', (request, response) => {
 });
 
 
-api.listen(2000, ()=> {
-  console.log(`Snowbot is listening on port ${2000}`)
+api.listen(3310, ()=> {
+  console.log(`Snowbot is listening on port ${3310}`)
 })
