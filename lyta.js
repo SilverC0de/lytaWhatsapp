@@ -19,14 +19,14 @@ require('./src/routes')(api)
 
 
 api.get('/', (request, response) =>{
-    response.status(206).send('Snowbot is live!')
+    response.status(206).send('Lyta is live!')
 })
 
 api.all('*', (request, response) => {
-    response.status(204).send('Snowbot is not available')
+    response.status(204).send('Lyta is unavailable')
 });
 
 
 api.listen(3310, ()=> {
-  console.log(`Snowbot is listening on port ${3310}`)
+  console.log(`Lyta is listening on port ${3310}`)
 })
